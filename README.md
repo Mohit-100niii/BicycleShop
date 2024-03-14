@@ -1,4 +1,8 @@
 # BicycleShop
+A Web Platform to get overview about Trending Bicycles.
+## Technologies Used
+- Node.js
+- Express.js
 
 ![image](https://github.com/Mohit-100niii/BicycleShop/assets/84673402/c84d5216-cdf3-4b3a-8e90-d63f75ba0ddd)
 
